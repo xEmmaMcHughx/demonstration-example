@@ -9,9 +9,9 @@ Tacos are easy and quick to make. Read below to learn how what makes a great tac
 
 .Prerequisites
 
-* interested in preparing a quick meal 
-* want something delicious
-* you need to work fast
+* Interested in preparing a quick meal 
+* You want something delicious
+* You need to work fast
 
 
 include::con_siteless.adoc[leveloffset=+1]
@@ -21,5 +21,4 @@ include::proc_making-tacos.adoc[leveloffset=+1]
 == Additional resources
 
 * link:{PREFIX}assembly_using.adoc[Using siteless]
-* For more details on writing assemblies, see the link:https://github.com/redhat-documentation/modular-docs#modular-documentation-reference-guide[Modular Documentation Reference Guide].
-* Use a consistent system for file names, IDs, and titles. For tips, see _Anchor Names and File Names_ in link:https://github.com/redhat-documentation/modular-docs#modular-documentation-reference-guide[Modular Documentation Reference Guide].
+* For more details on preparing dishes, see the link:hhttps://www.freetherecipe.com/[Free the Recipe].

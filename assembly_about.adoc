@@ -21,4 +21,4 @@ include::proc_making-tacos.adoc[leveloffset=+1]
 == Additional resources
 
 * link:{PREFIX}assembly_using.adoc[Using siteless]
-* For more details on preparing dishes, see the link:hhttps://www.freetherecipe.com/[Free the Recipe].
+* For more details on preparing dishes, see link:https://www.freetherecipe.com[Free the Recipe].

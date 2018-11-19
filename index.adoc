@@ -2,7 +2,7 @@
 
 This book details how to make some classic dishes!
 
-* link:index.html?e=assembly_about.adoc[Taco Recipe]
-* link:index.html?e=assembly_using.adoc[Salad with Chicken]
-* link:index.html?e=assembly_reference.adoc[Add Your Favorite Recipe]
+* link:index.html?e=assembly_taco.adoc[Taco Recipe]
+* link:index.html?e=assembly_salad.adoc[Salad with Chicken]
+* link:index.html?e=assembly_your-fav.adoc[Add Your Favorite Recipe]
 

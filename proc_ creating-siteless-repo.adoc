@@ -1,0 +1,30 @@
+[id='creating-a-siteless-repo_{context}']
+= Creating a siteless repo
+
+To get you started, create a github pages hosted site, and edit some content.
+
+
+.Procedure
+
+. Fork or copy the link:https://github.com/finp/siteless[siteless repo].
+. Edit the `index.adoc` file, for example:
++
+----
+* link:index.html?e=1.adoc[First page]
+* link:index.html?e=2.adoc[Second page]
+----
+. Create files `1.adoc` and `2.adoc` with content, for example:
++
+----
+= Page One
+
+This is my first page.
+----
+. To preview locally, you need a web server, eg `npm i -g http-server`.
+. Commit your changes and push to GitHub repo.
+. In *Options*  for the repo, navigate to the *GitHub Pages* section.
+. Select *master branch* from the *Sources* list.
+
+After applying, your site should be available at https://<user>.github.io/<repo-name>
+
+NOTE: You may need to Ctl-F5 to refresh a page and see your latest changes. 

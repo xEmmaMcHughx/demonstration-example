@@ -1,0 +1,23 @@
+include::attributes.adoc[]
+
+[id='about-siteless']
+= About siteless
+:context: about
+
+Siteless helps you write and publish asciidoc documentation with ease.
+
+.Prerequisites
+
+* you are familiar with markup languages
+* you need to publish text and graphics
+* you need to work fast
+
+
+include::con_siteless.adoc[leveloffset=+1]
+
+
+== Additional resources
+
+* link:{PREFIX}assembly_using.adoc[Using siteless]
+* For more details on writing assemblies, see the link:https://github.com/redhat-documentation/modular-docs#modular-documentation-reference-guide[Modular Documentation Reference Guide].
+* Use a consistent system for file names, IDs, and titles. For tips, see _Anchor Names and File Names_ in link:https://github.com/redhat-documentation/modular-docs#modular-documentation-reference-guide[Modular Documentation Reference Guide].

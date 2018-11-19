@@ -1,0 +1,23 @@
+include::attributes.adoc[]
+
+ifdef::context[:parent-context: {context}]
+
+[id='using']
+// If the assembly is reused in other assemblies in a guide, include {context} in the ID: [id='a-collection-of-modules-{context}'].
+= Using siteless
+:context: using
+
+You can use siteless in many ways, think of this of just an introduction to using it.
+
+.Prerequisites
+
+* a GitHub account
+* 20 minutes
+* Asciidoc content
+
+
+include::proc_creating-a-siteless-repo.adoc[leveloffset=+1]
+
+== Additional resources
+
+* link:{PREFIX}assembly_reference.adoc[How it works]

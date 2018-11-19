@@ -1,0 +1,17 @@
+include::attributes.adoc[]
+
+[id='reference']
+= How siteless works
+:context: reference
+
+Siteless is a opininated view of asciidoc writing and publishing, this description is not necessary to use it.
+
+Siteless assumes a web server is running an a browser is connected to that web server.
+For each request:
+
+. Siteless renders the index.html page.
+. That page references `asciidoctor.js` which enables asciidoc to html conversion.
+. index.html contains a reference to index.adoc.
+. index.html can interpret parameters referencing other adoc files.
+. asciidoctor parses the referenced adoc file.
+. asciidoctor requests any included files (ie supports assemblies)

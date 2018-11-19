@@ -4,18 +4,27 @@ ifdef::context[:parent-context: {context}]
 
 [id='using']
 // If the assembly is reused in other assemblies in a guide, include {context} in the ID: [id='a-collection-of-modules-{context}'].
-= Using siteless
+= Salad with Warm Chicken Recipe
 :context: using
 
-You can use siteless in many ways, think of this of just an introduction to using it.
+Make a simple chicken salad with the dressing of your choice. 
 
 .Prerequisites
 
-* a GitHub account
 * 20 minutes
-* Asciidoc content
+* Must not be too hungry 
 
++
+.Ingredients
 
+* Lettuce
+* Onions
+* Carrots
+* Chicken pieces
+* Black pepper
+* Dressing of your choice
+
++
 include::proc_creating-a-siteless-repo.adoc[leveloffset=+1]
 
 == Additional resources

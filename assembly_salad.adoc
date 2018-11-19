@@ -8,6 +8,7 @@ ifdef::context[:parent-context: {context}]
 :context: using
 
 Make a simple chicken salad with the dressing of your choice. 
++
 
 .Prerequisites
 
@@ -15,6 +16,7 @@ Make a simple chicken salad with the dressing of your choice.
 * Must not be too hungry 
 
 +
+
 .Ingredients
 
 * Lettuce

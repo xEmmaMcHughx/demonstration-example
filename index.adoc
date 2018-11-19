@@ -1,8 +1,8 @@
 = Recipe Book
 
-Let's make a record of some classic dishes
+This book details how to make some classic dishes!
 
-* link:index.html?e=assembly_about.adoc[What is the]
-* link:index.html?e=assembly_using.adoc[Using Siteless]
-* link:index.html?e=assembly_reference.adoc[Reference]
-* link:Index.html?e=
+* link:index.html?e=assembly_about.adoc[Taco Recipe]
+* link:index.html?e=assembly_using.adoc[Salad with Chicken]
+* link:index.html?e=assembly_reference.adoc[Add Your Favorite Recipe]
+

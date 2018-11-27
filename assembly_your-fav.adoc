@@ -9,8 +9,7 @@ Now it's your turn! Make a page that explains how to make your favorite meal.
 For this task you will do the following:
 
 . Create a concept page
-. 
 . index.html contains a reference to index.adoc.
 . index.html can interpret parameters referencing other adoc files.
 . Make a procuedure that explains how to make the dish
-. asciidoctor requests any included files (ie supports assemblies)
+. Asciidoctor requests any included files (i.e. supports assemblies)

@@ -3,9 +3,9 @@
 This repository will help students understand the following concepts:
 * How GitHub is used for mangaing information development
 * The concept of modular documentation
-* How Asciidoc is employed and rendered
+* How is  Asciidoc employed in documentation and how is it rendered
+___________________________________________________________________________________________________________________
 
-+
 This is an example repository to demonstrate Git to students. Students are tasked with completing the following tasks:
 1) Editing concept pages for recipe
 2) Creating a recipe (procedure) 

@@ -27,4 +27,4 @@ This is my first page.
 
 After applying, your site should be available at https://<user>.github.io/<repo-name>
 
-NOTE: You may need to Ctl-F5 to refresh a page and see your latest changes. 
+NOTE: You may use Ctl-F5 to refresh the page and see your latest changes. 

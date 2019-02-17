@@ -2,7 +2,7 @@
 
 This repository will help students understand the following concepts:
 * How GitHub is used for mangaing information development
-* The concept of modular documentation
+* What is modular documentation / why is it used
 * How is Asciidoc employed in documentation / how is it rendered
 ___________________________________________________________________________________________________________________
 

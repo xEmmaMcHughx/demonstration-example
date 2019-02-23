@@ -9,7 +9,7 @@ ________________________________________________________________________________
 This is an example repository to demonstrate Git to students. Students are tasked with completing the following tasks:
 1) Editing concept pages for recipes
 2) Creating a recipe (procedure) 
-3) Contributing to the structuring of the document
+3) Contributing to the structuring of the document (introduction to modular documentation)
 4) Making a pull request
 5) Resolving issues
 

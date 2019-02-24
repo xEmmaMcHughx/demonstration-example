@@ -6,7 +6,7 @@ This repository helps students understand the following concepts:
 * How is Asciidoc employed in documentation / how is it rendered
 ___________________________________________________________________________________________________________________
 
-This is an example repository to demonstrate Git to students. Students are tasked with completing the following tasks:
+This is an _example_ repository to demonstrate Git to students. Students are tasked with completing the following:
 1) Editing concept pages for recipes
 2) Creating a recipe (procedure) 
 3) Contributing to the structuring of the document (introduction to modular documentation)

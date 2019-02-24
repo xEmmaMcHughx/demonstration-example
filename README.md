@@ -1,6 +1,6 @@
 # Student Recipe Book
 
-This repository will help students understand the following concepts:
+This repository helps students understand the following concepts:
 * How GitHub is used for mangaing information development
 * What is modular documentation / why is it used
 * How is Asciidoc employed in documentation / how is it rendered

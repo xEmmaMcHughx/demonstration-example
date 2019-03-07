@@ -1,0 +1,36 @@
+// This module is about making brownies
+
+= Making Brownies
+
+This paragraph is the procedure module introduction: how to make brownies.
+
+.Prerequisites
+
+* Chocolate Chips
+* Cocoa Mixture
+* Eggs
+* Milk
+* Flour
+* Sugar
+* Vanilla Extract
+* Mixing Bowl
+* Spatula
+* Whisk
+
+.Procedure
+
+. Take out all the ingredients for making brownies.
+
+. Preheat oven to 350oF (175o C).
+
+. Mix the butter, sugar and vanilla together.
+
+. Add the eggs, one at a time. Pour in milk slowly.
+
+.  Add the flour, chocolate chips and cocoa mixture.
+
+. Whisk the mixture well.
+
+. Bake for 35-40 minutes.
+
+.Additional resources
